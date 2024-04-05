@@ -24,7 +24,7 @@ function somaNumeros(numeros){
   console.log('Total é: ',soma);
 }
 
-somaNumeros(numerosTeste)
+somaNumeros(numerosTeste);
 
 // metodo 4 teste:
 
@@ -36,4 +36,4 @@ function somaNumerosDinamica(...numeros){
   console.log('Total é: ',soma);
 }
 
-somaNumerosDinamica(2,3,4,9,45,50,48,36)
+somaNumerosDinamica(2,3,4,9,45,50,48,36);
