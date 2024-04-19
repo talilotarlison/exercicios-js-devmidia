@@ -1,3 +1,6 @@
+// Link da documentação:
+// https://sweetalert.js.org/guides/#getting-started
+
 //Para executar o código a partir da confirmação do usuário com a biblioteca SweetAlert, você pode modificar a função `alert2` para incluir uma ação que será realizada quando o usuário clicar no botão de confirmação. Aqui está um exemplo de como você pode fazer isso:
 
 
