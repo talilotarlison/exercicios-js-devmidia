@@ -1,6 +1,8 @@
-### Curso DEVMIDA
+### Exercicios do curso `DEVMIDA`.
+####  Programa Potência Tech.
 
-- Execicios de javascrip feito durante curso da DEVMIDA.
-- Curso potência Tech
+`Execicios de javascript feito durante curso da DEVMIDA.`
+#### Tecnologias usadas:
 - Javascrip
+- CSS
 - HTML
