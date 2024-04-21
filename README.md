@@ -6,3 +6,4 @@
 - Javascrip
 - CSS
 - HTML
+- Portugol
